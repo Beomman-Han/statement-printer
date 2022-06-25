@@ -1,2 +1,2 @@
 # statement-printer
-Repository for source code of printing play statement to practice refactoring codes.
+연극의 장르와 관객 규모를 기초로 공연료 청구서를 출력하는 자바 스크립트 코드.
